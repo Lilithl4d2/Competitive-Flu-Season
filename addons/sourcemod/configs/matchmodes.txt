@@ -4,7 +4,7 @@
   	{
   		"fluseason"
 	  	 {
-	  		"name" "Competitive Flu Season v1.5.3"
+	  		"name" "Competitive Flu Season v1.5.4"
 	     } 
     }
 }
