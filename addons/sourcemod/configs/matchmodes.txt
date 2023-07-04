@@ -1,10 +1,10 @@
 "MatchModes"
    {
-    "Competitive Flu Season VS Configs"
+    "Flu Season Configs"
   	{
   		"fluseason"
 	  	 {
-	  		"name" "Competitive Flu Season v1.5.4"
+	  		"name" "Flu Season v1.5.6"
 	     } 
     }
 }
